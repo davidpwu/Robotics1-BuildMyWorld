@@ -7,4 +7,4 @@
 
 ## Details
 
-Use the tools learned in Gazebo to build my first environment.
+Use Gazebo to simulate a robotic environment comprised of a building to house my future robot. 
